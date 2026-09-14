@@ -1,4 +1,4 @@
-# ¡Hola a Todos! Soy Manuel Romero🤠
+# ¡Ciao tutti! Soy Manuel Romero🤠
 
 ## Estudiante de primer año de Desarrollo de Software en el Instituto Nacional "Ernesto Flores", con 16 años, con mucho entusiasmo de aprender de la tecnologia con mi tutores en especial con mi profesor Humberto.
 
